@@ -22,18 +22,16 @@ npm install
 
 #### &nbsp;React js <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-![GitHub Logo](/img/inicio.png)
-Login
-![GitHub Logo](/img/main.png)
-Listagem
-![GitHub Logo](/img/cadastro.png)
-Cadastro
+![Login](/imagens/img/inicio.png)
+![Listagem](/imagens/img/main.png)
+![Cadastro](/imagens/img/cadastro.png)
+
 
 ## Mobile
 
 #### &nbsp;React Native <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-![GitHub Logo](/gif/gif.gif)
+![Mobile](./imagens/gif/gif.gif)
 
 <br/>
 <br/>
@@ -43,7 +41,7 @@ Cadastro
 
 <br/>
 
-![GitHub Logo](./config.jpg)
+![](./imagens/config.jpg)
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
